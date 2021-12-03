@@ -51,7 +51,7 @@ Vexamos algunhas posibilidades:
 
 2. **[Sublime Text](https://www.sublimetext.com/)**: O candidato de sempre. Unha aplicación moi lixeira que sinalou o camiño a outras e cun considerable e incondicional número de adeptos.
 
-   ![SublimeText](assets/sublimetext-full.jpg)
+   ![SublimeText](./assets/sublimetext-full.jpg)
 
    Con varios complementos moi prácticos, destaca polos atallos de teclado - fácil integración con Emmet-, unha interface moi sinxela e fácil de usar.
 
